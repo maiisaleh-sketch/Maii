@@ -1,5 +1,8 @@
 ✨ Hello there 👋
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
+
 🧬 Current role / position —  “Computational Biologist ” .
 
 🎓 Education — Ph.D.  In Molecular Biology.  -Diploma in Bioinformatics.
