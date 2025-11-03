@@ -1,5 +1,5 @@
 # Hello there 👋
-🧬 Current role / position — e.g., “Computational Biologist ” .
+🧬 Current role / position —  “Computational Biologist ” .
 
 🎓 Education — Ph.D.  In Molecular Biology.  -Diploma in Bioinformatics.
 
