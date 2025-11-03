@@ -1,4 +1,5 @@
-# Hello there 👋
+✨ Hello there 👋
+
 🧬 Current role / position —  “Computational Biologist ” .
 
 🎓 Education — Ph.D.  In Molecular Biology.  -Diploma in Bioinformatics.
@@ -10,8 +11,7 @@
 📚 Currently learning or exploring — e.g., deep learning for omics, data visualization, Microbiome analysis.
 
 🌍 Links to include — GitHub:https://github.com/maiisaleh-sketch , LinkedIn:https://www.linkedin.com/in/maii-saleh-elsharayidi-ph-d-a22787a3/ .
-
-✨ Tone preference — would you like it to be more academic, friendly, clean/minimal, or stylish like the original?
+ 
 
 - 🔭 I’m currently working on Microbiome analysis - Anticancers.
 - 🌱 I’m currently learning machine learning in biology.
